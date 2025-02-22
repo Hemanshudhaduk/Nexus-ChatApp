@@ -1,0 +1,7 @@
+export const reducerCases = {
+    SET_USER_INFO: "SET_USER_INFO",
+    SET_NEW_USER: "SET_NEW_USER",
+    SET_ALL_CONTACTS_PAGE: "SET_ALL_CONTACTS_PAGE", // ✅ Corrected spelling
+    CHANGE_CURRENT_CHAT_USER: "CHANGE_CURRENT_CHAT_USER",
+    SET_MESSAGES: "SET_MESSAGES",  
+};
